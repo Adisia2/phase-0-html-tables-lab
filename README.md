@@ -35,7 +35,7 @@ The first thing we need in order to create a table is to write opening and
 closing `<table>` tags.
 
 ```html
-<table></table>
+<table></table>City
 ```
 
 This tells our browser to interpret anything inside as part of the table. What
